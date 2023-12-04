@@ -4,7 +4,12 @@
     justify-content: center;
     flex-direction: column;
     align-items: center;
-    background-color: aqua;
-    width: 100vw;
+    color: azure;
+}
 
+body{
+    background-image: url("/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
 }
